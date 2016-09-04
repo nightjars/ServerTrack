@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ServerTrack
 {
-    class Program
+    class ServerTrack
     {
         static void Main(string[] args)
         {
